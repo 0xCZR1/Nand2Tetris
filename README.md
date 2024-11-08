@@ -43,12 +43,12 @@ Nand2Tetris is an exciting journey that takes you through the construction of a 
 └── README.md
 ```
 # 📈 Progress
- Chapter 1: Boolean Logic
- Chapter 2: Boolean Arithmetic
- Chapter 3: Sequential Logic
- Chapter 4: Machine Language
- Chapter 5: Computer Architecture
- Chapter 6: Assembler
+ - Chapter 1: Boolean Logic
+ - Chapter 2: Boolean Arithmetic
+ - Chapter 3: Sequential Logic
+ - Chapter 4: Machine Language
+ - Chapter 5: Computer Architecture
+ - Chapter 6: Assembler
  ...
 # 🚀 Usage
 Open the .hdl files in the Hardware Simulator to test and run the components up to Chapter 5.
