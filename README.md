@@ -1,4 +1,4 @@
-<center>🚀 **Nand2Tetris: Building a Modern Computer from Scratch**</center>
+<center>🚀 Nand2Tetris: Building a Modern Computer from Scratch</center>
 
 Welcome to my Nand2Tetris project! This repository documents my journey through the Nand2Tetris course, where I'm building a computer from the ground up using basic logic gates.
 
