@@ -2,7 +2,7 @@
 
 Welcome to my Nand2Tetris project! This repository documents my journey through the Nand2Tetris course, where I'm building a computer from the ground up using basic logic gates.
 
-<center><img src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_640,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png" alt="Nand2Tetris Banner" /></center>
+<div style="text-align: center;"><img src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_640,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png" alt="Nand2Tetris Banner" /></center> </div>
 # 🧭 Table of Contents
  - About the Project
  - Project Structure
